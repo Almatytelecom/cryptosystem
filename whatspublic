@@ -10,7 +10,7 @@ In the case of direct ENCRYPTION:
 
 	The PRIVATE key is used for DECryption, and the PUBLIC key is used for ENCryption.
 
-	The one who generates the Public and Private keys is the one who RECEIVES the ENCrypted text.
+	The one who generates the public and private keys is the one who RECEIVES the ENCrypted text.
 
 
 
@@ -21,4 +21,4 @@ In the case it is used for SIGNING:
 
 	The PRIVATE key is used for ENCryption, and the PUBLIC key is used for DECryption.
 
-	The one who generates the Public and Private keys is the one who SENDS the ENCrypted text.
+	The one who generates the public and private keys is the one who SENDS the ENCrypted text.
