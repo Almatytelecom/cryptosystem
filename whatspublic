@@ -1,12 +1,24 @@
 
+In both cases the PUBLIC key is shared, but the PRIVATE key is kept with you.
+
+
+
+
+
 In the case of direct ENCRYPTION.
 
-	1 The Public key is used for ENCryption, and the Private key is used for DECryption.
-	2 The Public key is shared, but the Private key is kept with you.
-	3 The one who generates the Public and Private keys is the one who RECEIVES the ENCrypted text.
+
+	1 The PRIVATE key is used for DECryption, and the PUBLIC key is used for ENCryption.
+
+	2 The one who generates the Public and Private keys is the one who RECEIVES the ENCrypted text.
+
+
+
+
 
 In the case it is used for SIGN.
 
-	1 The Private key is used for ENCryption, and the Public key is used for DECryption.
-	2 The Public key is shared, but the Private key is kept with you.
-	3 The one who generates the Public and Private keys is the one who SENDS the ENCrypted text.
+
+	1 The PRIVATE key is used for ENCryption, and the PUBLIC key is used for DECryption.
+
+	2 The one who generates the Public and Private keys is the one who SENDS the ENCrypted text.
